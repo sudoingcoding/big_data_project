@@ -6,9 +6,6 @@
 [![PySpark](https://img.shields.io/badge/PySpark-3.x-red)](https://spark.apache.org/)
 [![License](https://img.shields.io/badge/License-Academic-lightgrey)](/)
 
-> ⚠️ **Before using this README:** Replace `YOUR_USERNAME` and `YOUR_REPO` throughout this file with your actual GitHub username and repository name.  
-> All figures should be placed inside a `figures/` folder at the root of your repository.
-
 ---
 
 ## 📋 Table of Contents
