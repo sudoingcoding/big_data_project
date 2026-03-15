@@ -23,8 +23,6 @@
 - [Future Work](#future-work)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
-- [Citation](#citation)
-
 ---
 
 ## Overview
