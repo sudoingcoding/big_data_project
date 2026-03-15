@@ -40,12 +40,12 @@ The entire pipeline is built on **Apache Spark (PySpark)** for distributed scala
 
 ## Authors
 
-| Name | Student ID | Department |
-|------|------------|------------|
-| Momena Khatun Zinia | 2022-1-60-028 | Computer Science & Engineering |
-| Mahmudul Haque Sakib | 2022-1-60-039 | Computer Science & Engineering |
-| Sami Al Zabid | 2022-1-60-103 | Computer Science & Engineering |
-| Suddip Paul Arnab | 2022-1-60-356 | Computer Science & Engineering |
+| Name | Department |
+|------|------------|
+| Momena Khatun Zinia | Computer Science & Engineering |
+| Mahmudul Haque Sakib | Computer Science & Engineering |
+| Sami Al Zabid | Computer Science & Engineering |
+| Suddip Paul Arnab | Computer Science & Engineering |
 
 **Supervisor:** Dr. Mohammad Rezwanul Huq  
 **Designation:** Associate Professor, Department of CSE, East West University, Bangladesh
@@ -225,7 +225,7 @@ MinHash LSH hashes documents into buckets so similar documents are more likely t
 ### 2D PCA Cluster Visualization
 
 <p align="center">
-  <img src="httpsfigure/output_img_14.png" alt="Fig 6 — 2D PCA Scatter Plot" width="700"/>
+  <img src="figure/output_img_14.png" alt="Fig 6 — 2D PCA Scatter Plot" width="700"/>
 </p>
 
 > **Fig 6** — 2D PCA Scatter Plot of Clusters. Clear spatial separation is visible across all cluster groups. Cluster 0 (largest) is most dispersed, indicating broad thematic diversity. Tightly packed smaller clusters represent niche topic groupings.
@@ -399,17 +399,6 @@ spark = SparkSession.builder \
 | Cells 14–18 | LSH | MinHashLSH training, similarity join, nearest-neighbor retrieval |
 | Cells 19–24 | Clustering | KMeans, PCA 2D visualization |
 | Cells 25–28 | Tuning | Parameter tuning, silhouette scores, precision/recall metrics |
-
----
-
-## Citation
-
-```
-Huq, M.R., Zinia, M.K., Sakib, M.H., Zabid, S.A., & Arnab, S.P. (2024).
-Analysis of Bangla News Headlines Using LSH and Clustering Techniques.
-CSE 488 Project Report, Department of Computer Science & Engineering,
-East West University, Bangladesh.
-```
 
 ---
 
